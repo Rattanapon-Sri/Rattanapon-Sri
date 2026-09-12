@@ -108,7 +108,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚘 [SlideMe](https://github.com/Sayhighz/SlideMe)
+### 🚘 SlideMe
 **Team Full-Stack Application**
 
 โปรเจกต์แบบ Team Project ที่แบ่งระบบออกเป็นแอปฝั่ง Customer, Driver และ Backend Server
@@ -146,22 +146,15 @@
 
 ---
 
-## 📊 GitHub Activity
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rattanapon-Sri&show_icons=true&theme=github_dark&hide_border=true&title_color=60b876&icon_color=60b876" alt="Rattanapon's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rattanapon-Sri&layout=compact&theme=github_dark&hide_border=true&title_color=60b876" alt="Most used languages" />
+## 📫 Contact
 
-<img src="https://streak-stats.demolab.com?user=Rattanapon-Sri&theme=github-dark-blue&hide_border=true&ring=60B876&fire=60B876&currStreakLabel=60B876" alt="GitHub contribution streak" />
+สามารถติดต่อและพูดคุยกับผมได้ผ่านช่องทางด้านล่าง
 
-</div>
-
----
-
-<div align="center">
-
-### 📫 มาร่วมสร้างสิ่งดี ๆ ไปด้วยกัน
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rattanapon_Srinonyang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rattanapon-srinonyang-170450436/)
+[![Discord](https://img.shields.io/badge/Discord-ติดต่อทาง_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/241840532144390144)
+[![Gmail](https://img.shields.io/badge/Gmail-aof4463%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aof4463@gmail.com)
 
 เปิดรับโอกาสด้าน **Internship, Full-Stack Development และ Software Development**
 
