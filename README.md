@@ -1,6 +1,5 @@
 <div align="center">
 
-# สวัสดีครับ ผมอ๊อฟ 👋  
 ### Rattanapon Srinonyang
 
 **Full-Stack Developer · Computer Science Student · AI Enthusiast**
